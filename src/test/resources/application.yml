@@ -7,7 +7,7 @@ server:
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/akdemia-gp2e-db-test?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true
+    url: jdbc:mysql://localhost:3306/akdemia-gp2-db-test?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true
     username: root
     password:
   jpa:
@@ -16,6 +16,6 @@ spring:
       naming:
         physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
       ddl-auto: none
-    show-sql: on
+    show-sql: true
   application:
     name: akdemia
