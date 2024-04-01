@@ -14,9 +14,9 @@ Le but de ce tableau de bord est de leur permettre de gérer les formations, les
 
 Le projet est divisé en trois parties :
 
-   - la partie front-end/Angular : `akdemia-web`
-   - la partie web services : `akdemia-ws`
-   - la partie business : `akdemia-business`
+   - la partie front-end (Web) : [akdemia-web](https://github.com/mtounkara/akdemia-gp2e-web)
+   - la partie web services : [akdemia-ws](https://github.com/mtounkara/akdemia-gp2e-ws)
+   - la partie business : [akdemia-business](https://github.com/mtounkara/akdemia-gp2e-business)
 		
 Avec 2 bases de données (dont une pour les tests).
 
@@ -45,9 +45,9 @@ The purpose of this dashboard is to allow them to manage trainings, training ses
 ---
 The project is divided into three parts:
 
-   - the front-end/Angular part: `akdemia-web`
-   - the web services part: `akdemia-ws`
-   - the business part: `akdemia-business`
+   - the front-end (Web) part: [akdemia-web](https://github.com/mtounkara/akdemia-gp2e-web)
+   - the web services part : [akdemia-ws](https://github.com/mtounkara/akdemia-gp2e-ws)
+   - the business part : [akdemia-business](https://github.com/mtounkara/akdemia-gp2e-business)
    
 With 2 databases (including one for tests).
 
